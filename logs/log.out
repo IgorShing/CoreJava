@@ -1,0 +1,95 @@
+2016-11-28 09:29:42 DispatcherServlet [INFO] FrameworkServlet 'springmvc3': initialization started
+2016-11-28 09:29:42 XmlWebApplicationContext [INFO] Refreshing WebApplicationContext for namespace 'springmvc3-servlet': startup date [Mon Nov 28 09:29:42 MSK 2016]; root of context hierarchy
+2016-11-28 09:29:42 XmlBeanDefinitionReader [INFO] Loading XML bean definitions from ServletContext resource [/WEB-INF/spring-dispatcher-servlet.xml]
+2016-11-28 09:29:44 RequestMappingHandlerMapping [INFO] Mapped "{[/getnameslist],methods=[POST]}" onto public java.lang.String com.logic.controller.AppController.getWordList() throws com.fasterxml.jackson.core.JsonProcessingException
+2016-11-28 09:29:44 RequestMappingHandlerAdapter [INFO] Looking for @ControllerAdvice: WebApplicationContext for namespace 'springmvc3-servlet': startup date [Mon Nov 28 09:29:42 MSK 2016]; root of context hierarchy
+2016-11-28 09:29:44 RequestMappingHandlerAdapter [INFO] Looking for @ControllerAdvice: WebApplicationContext for namespace 'springmvc3-servlet': startup date [Mon Nov 28 09:29:42 MSK 2016]; root of context hierarchy
+2016-11-28 09:29:45 SimpleUrlHandlerMapping [INFO] Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2016-11-28 09:29:45 SimpleUrlHandlerMapping [INFO] Mapped URL path [/resources/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2016-11-28 09:29:45 DispatcherServlet [INFO] FrameworkServlet 'springmvc3': initialization completed in 3252 ms
+2016-11-28 09:30:04 PageNotFound [WARN] Request method 'GET' not supported
+2016-11-28 09:30:27 PageNotFound [WARN] Request method 'GET' not supported
+2016-11-28 09:30:29 PageNotFound [WARN] Request method 'GET' not supported
+2016-11-28 09:30:30 XmlWebApplicationContext [INFO] Closing WebApplicationContext for namespace 'springmvc3-servlet': startup date [Mon Nov 28 09:29:42 MSK 2016]; root of context hierarchy
+2016-11-28 09:30:33 DispatcherServlet [INFO] FrameworkServlet 'springmvc3': initialization started
+2016-11-28 09:30:33 XmlWebApplicationContext [INFO] Refreshing WebApplicationContext for namespace 'springmvc3-servlet': startup date [Mon Nov 28 09:30:33 MSK 2016]; root of context hierarchy
+2016-11-28 09:30:33 XmlBeanDefinitionReader [INFO] Loading XML bean definitions from ServletContext resource [/WEB-INF/spring-dispatcher-servlet.xml]
+2016-11-28 09:30:34 RequestMappingHandlerMapping [INFO] Mapped "{[/getnameslist],methods=[GET]}" onto public java.lang.String com.logic.controller.AppController.getWordList() throws com.fasterxml.jackson.core.JsonProcessingException
+2016-11-28 09:30:35 RequestMappingHandlerAdapter [INFO] Looking for @ControllerAdvice: WebApplicationContext for namespace 'springmvc3-servlet': startup date [Mon Nov 28 09:30:33 MSK 2016]; root of context hierarchy
+2016-11-28 09:30:35 RequestMappingHandlerAdapter [INFO] Looking for @ControllerAdvice: WebApplicationContext for namespace 'springmvc3-servlet': startup date [Mon Nov 28 09:30:33 MSK 2016]; root of context hierarchy
+2016-11-28 09:30:35 SimpleUrlHandlerMapping [INFO] Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2016-11-28 09:30:35 SimpleUrlHandlerMapping [INFO] Mapped URL path [/resources/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2016-11-28 09:30:36 DispatcherServlet [INFO] FrameworkServlet 'springmvc3': initialization completed in 2325 ms
+2016-11-28 09:30:37 AppController [INFO] Getting a names list list...
+2016-11-28 09:30:37 AppController [INFO] The names list was formed.
+2016-11-28 09:30:37 AppController [INFO] Getting a names list list...
+2016-11-28 09:30:37 AppController [INFO] The names list was formed.
+2016-11-28 09:30:42 AppController [INFO] Getting a names list list...
+2016-11-28 09:30:42 AppController [INFO] The names list was formed.
+2016-11-28 09:30:52 AppController [INFO] Getting a names list list...
+2016-11-28 09:30:52 AppController [INFO] The names list was formed.
+2016-11-28 09:30:52 AppController [INFO] Getting a names list list...
+2016-11-28 09:30:52 AppController [INFO] The names list was formed.
+2016-11-28 09:31:18 DispatcherServlet [INFO] FrameworkServlet 'springmvc3': initialization started
+2016-11-28 09:31:18 XmlWebApplicationContext [INFO] Refreshing WebApplicationContext for namespace 'springmvc3-servlet': startup date [Mon Nov 28 09:31:18 MSK 2016]; root of context hierarchy
+2016-11-28 09:31:18 XmlBeanDefinitionReader [INFO] Loading XML bean definitions from ServletContext resource [/WEB-INF/spring-dispatcher-servlet.xml]
+2016-11-28 09:31:19 RequestMappingHandlerMapping [INFO] Mapped "{[/getnameslist],methods=[GET]}" onto public java.lang.String com.logic.controller.AppController.getWordList() throws com.fasterxml.jackson.core.JsonProcessingException
+2016-11-28 09:31:20 RequestMappingHandlerAdapter [INFO] Looking for @ControllerAdvice: WebApplicationContext for namespace 'springmvc3-servlet': startup date [Mon Nov 28 09:31:18 MSK 2016]; root of context hierarchy
+2016-11-28 09:31:20 RequestMappingHandlerAdapter [INFO] Looking for @ControllerAdvice: WebApplicationContext for namespace 'springmvc3-servlet': startup date [Mon Nov 28 09:31:18 MSK 2016]; root of context hierarchy
+2016-11-28 09:31:20 SimpleUrlHandlerMapping [INFO] Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2016-11-28 09:31:20 SimpleUrlHandlerMapping [INFO] Mapped URL path [/resources/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2016-11-28 09:31:20 DispatcherServlet [INFO] FrameworkServlet 'springmvc3': initialization completed in 2860 ms
+2016-11-28 09:31:24 AppController [INFO] Getting a names list list...
+2016-11-28 09:31:24 AppController [INFO] The names list was formed.
+2016-11-28 09:31:24 AppController [INFO] Getting a names list list...
+2016-11-28 09:31:24 AppController [INFO] The names list was formed.
+2016-11-28 09:32:05 XmlWebApplicationContext [INFO] Closing WebApplicationContext for namespace 'springmvc3-servlet': startup date [Mon Nov 28 09:31:18 MSK 2016]; root of context hierarchy
+2016-11-28 09:32:08 DispatcherServlet [INFO] FrameworkServlet 'springmvc3': initialization started
+2016-11-28 09:32:08 XmlWebApplicationContext [INFO] Refreshing WebApplicationContext for namespace 'springmvc3-servlet': startup date [Mon Nov 28 09:32:08 MSK 2016]; root of context hierarchy
+2016-11-28 09:32:09 XmlBeanDefinitionReader [INFO] Loading XML bean definitions from ServletContext resource [/WEB-INF/spring-dispatcher-servlet.xml]
+2016-11-28 09:32:09 RequestMappingHandlerMapping [INFO] Mapped "{[/getnameslist],methods=[POST]}" onto public java.lang.String com.logic.controller.AppController.getWordList() throws com.fasterxml.jackson.core.JsonProcessingException
+2016-11-28 09:32:10 RequestMappingHandlerAdapter [INFO] Looking for @ControllerAdvice: WebApplicationContext for namespace 'springmvc3-servlet': startup date [Mon Nov 28 09:32:08 MSK 2016]; root of context hierarchy
+2016-11-28 09:32:10 RequestMappingHandlerAdapter [INFO] Looking for @ControllerAdvice: WebApplicationContext for namespace 'springmvc3-servlet': startup date [Mon Nov 28 09:32:08 MSK 2016]; root of context hierarchy
+2016-11-28 09:32:10 SimpleUrlHandlerMapping [INFO] Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2016-11-28 09:32:10 SimpleUrlHandlerMapping [INFO] Mapped URL path [/resources/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2016-11-28 09:32:11 DispatcherServlet [INFO] FrameworkServlet 'springmvc3': initialization completed in 2117 ms
+2016-11-28 09:37:27 PageNotFound [WARN] Request method 'GET' not supported
+2016-11-28 09:49:10 DispatcherServlet [INFO] FrameworkServlet 'springmvc3': initialization started
+2016-11-28 09:49:10 XmlWebApplicationContext [INFO] Refreshing WebApplicationContext for namespace 'springmvc3-servlet': startup date [Mon Nov 28 09:49:10 MSK 2016]; root of context hierarchy
+2016-11-28 09:49:10 XmlBeanDefinitionReader [INFO] Loading XML bean definitions from ServletContext resource [/WEB-INF/spring-dispatcher-servlet.xml]
+2016-11-28 09:49:12 RequestMappingHandlerMapping [INFO] Mapped "{[/createuser],methods=[POST]}" onto public java.lang.String com.logic.controller.AppController.createUser(java.lang.String,java.lang.String,java.lang.String) throws com.fasterxml.jackson.core.JsonProcessingException
+2016-11-28 09:49:13 RequestMappingHandlerAdapter [INFO] Looking for @ControllerAdvice: WebApplicationContext for namespace 'springmvc3-servlet': startup date [Mon Nov 28 09:49:10 MSK 2016]; root of context hierarchy
+2016-11-28 09:49:13 RequestMappingHandlerAdapter [INFO] Looking for @ControllerAdvice: WebApplicationContext for namespace 'springmvc3-servlet': startup date [Mon Nov 28 09:49:10 MSK 2016]; root of context hierarchy
+2016-11-28 09:49:13 SimpleUrlHandlerMapping [INFO] Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2016-11-28 09:49:13 SimpleUrlHandlerMapping [INFO] Mapped URL path [/resources/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2016-11-28 09:49:13 DispatcherServlet [INFO] FrameworkServlet 'springmvc3': initialization completed in 2926 ms
+2016-11-28 10:12:11 XmlWebApplicationContext [INFO] Closing WebApplicationContext for namespace 'springmvc3-servlet': startup date [Mon Nov 28 09:49:10 MSK 2016]; root of context hierarchy
+2016-11-28 10:12:17 DispatcherServlet [INFO] FrameworkServlet 'springmvc3': initialization started
+2016-11-28 10:12:17 XmlWebApplicationContext [INFO] Refreshing WebApplicationContext for namespace 'springmvc3-servlet': startup date [Mon Nov 28 10:12:17 MSK 2016]; root of context hierarchy
+2016-11-28 10:12:17 XmlBeanDefinitionReader [INFO] Loading XML bean definitions from ServletContext resource [/WEB-INF/spring-dispatcher-servlet.xml]
+2016-11-28 10:12:19 RequestMappingHandlerMapping [INFO] Mapped "{[/createuser],methods=[POST]}" onto public java.lang.String com.logic.controller.AppController.createUser(java.lang.String,java.lang.String,java.lang.String) throws com.fasterxml.jackson.core.JsonProcessingException
+2016-11-28 10:12:20 RequestMappingHandlerAdapter [INFO] Looking for @ControllerAdvice: WebApplicationContext for namespace 'springmvc3-servlet': startup date [Mon Nov 28 10:12:17 MSK 2016]; root of context hierarchy
+2016-11-28 10:12:20 RequestMappingHandlerAdapter [INFO] Looking for @ControllerAdvice: WebApplicationContext for namespace 'springmvc3-servlet': startup date [Mon Nov 28 10:12:17 MSK 2016]; root of context hierarchy
+2016-11-28 10:12:20 SimpleUrlHandlerMapping [INFO] Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2016-11-28 10:12:20 SimpleUrlHandlerMapping [INFO] Mapped URL path [/resources/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2016-11-28 10:12:20 DispatcherServlet [INFO] FrameworkServlet 'springmvc3': initialization completed in 2760 ms
+2016-11-28 10:21:05 XmlWebApplicationContext [INFO] Closing WebApplicationContext for namespace 'springmvc3-servlet': startup date [Mon Nov 28 10:12:17 MSK 2016]; root of context hierarchy
+2016-11-28 10:21:11 DispatcherServlet [INFO] FrameworkServlet 'springmvc3': initialization started
+2016-11-28 10:21:11 XmlWebApplicationContext [INFO] Refreshing WebApplicationContext for namespace 'springmvc3-servlet': startup date [Mon Nov 28 10:21:11 MSK 2016]; root of context hierarchy
+2016-11-28 10:21:11 XmlBeanDefinitionReader [INFO] Loading XML bean definitions from ServletContext resource [/WEB-INF/spring-dispatcher-servlet.xml]
+2016-11-28 10:21:13 RequestMappingHandlerMapping [INFO] Mapped "{[/createuser],methods=[POST]}" onto public java.lang.String com.logic.controller.AppController.createUser(java.lang.String,java.lang.String,java.lang.String) throws com.fasterxml.jackson.core.JsonProcessingException
+2016-11-28 10:21:14 RequestMappingHandlerAdapter [INFO] Looking for @ControllerAdvice: WebApplicationContext for namespace 'springmvc3-servlet': startup date [Mon Nov 28 10:21:11 MSK 2016]; root of context hierarchy
+2016-11-28 10:21:14 RequestMappingHandlerAdapter [INFO] Looking for @ControllerAdvice: WebApplicationContext for namespace 'springmvc3-servlet': startup date [Mon Nov 28 10:21:11 MSK 2016]; root of context hierarchy
+2016-11-28 10:21:14 SimpleUrlHandlerMapping [INFO] Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2016-11-28 10:21:14 SimpleUrlHandlerMapping [INFO] Mapped URL path [/resources/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2016-11-28 10:21:14 DispatcherServlet [INFO] FrameworkServlet 'springmvc3': initialization completed in 2959 ms
+2016-11-28 10:30:43 XmlWebApplicationContext [INFO] Closing WebApplicationContext for namespace 'springmvc3-servlet': startup date [Mon Nov 28 10:21:11 MSK 2016]; root of context hierarchy
+2016-11-28 10:30:51 DispatcherServlet [INFO] FrameworkServlet 'springmvc3': initialization started
+2016-11-28 10:30:51 XmlWebApplicationContext [INFO] Refreshing WebApplicationContext for namespace 'springmvc3-servlet': startup date [Mon Nov 28 10:30:51 MSK 2016]; root of context hierarchy
+2016-11-28 10:30:51 XmlBeanDefinitionReader [INFO] Loading XML bean definitions from ServletContext resource [/WEB-INF/spring-dispatcher-servlet.xml]
+2016-11-28 10:30:53 RequestMappingHandlerMapping [INFO] Mapped "{[/createuser],methods=[POST]}" onto public java.lang.String com.logic.controller.AppController.createUser(java.lang.String,java.lang.String,java.lang.String) throws com.fasterxml.jackson.core.JsonProcessingException
+2016-11-28 10:30:53 RequestMappingHandlerAdapter [INFO] Looking for @ControllerAdvice: WebApplicationContext for namespace 'springmvc3-servlet': startup date [Mon Nov 28 10:30:51 MSK 2016]; root of context hierarchy
+2016-11-28 10:30:53 RequestMappingHandlerAdapter [INFO] Looking for @ControllerAdvice: WebApplicationContext for namespace 'springmvc3-servlet': startup date [Mon Nov 28 10:30:51 MSK 2016]; root of context hierarchy
+2016-11-28 10:30:54 SimpleUrlHandlerMapping [INFO] Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2016-11-28 10:30:54 SimpleUrlHandlerMapping [INFO] Mapped URL path [/resources/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2016-11-28 10:30:54 DispatcherServlet [INFO] FrameworkServlet 'springmvc3': initialization completed in 2611 ms
