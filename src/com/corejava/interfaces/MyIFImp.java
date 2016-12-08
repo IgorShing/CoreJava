@@ -1,0 +1,11 @@
+package com.corejava.interfaces;
+
+//Implement MyIF.
+class MyIFImp implements MyIF {
+	// Only getNumber() defined by MyIF needs to be implemented.
+	// getString() can be allowed to default.
+	@Override
+	public int getNumber() {
+		return 100;
+	}
+}
