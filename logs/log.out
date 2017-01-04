@@ -93,3 +93,12 @@
 2016-11-28 10:30:54 SimpleUrlHandlerMapping [INFO] Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
 2016-11-28 10:30:54 SimpleUrlHandlerMapping [INFO] Mapped URL path [/resources/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
 2016-11-28 10:30:54 DispatcherServlet [INFO] FrameworkServlet 'springmvc3': initialization completed in 2611 ms
+2017-01-04 10:14:38 DispatcherServlet [INFO] FrameworkServlet 'springmvc3': initialization started
+2017-01-04 10:14:38 XmlWebApplicationContext [INFO] Refreshing WebApplicationContext for namespace 'springmvc3-servlet': startup date [Wed Jan 04 10:14:38 MSK 2017]; root of context hierarchy
+2017-01-04 10:14:38 XmlBeanDefinitionReader [INFO] Loading XML bean definitions from ServletContext resource [/WEB-INF/spring-dispatcher-servlet.xml]
+2017-01-04 10:14:40 RequestMappingHandlerMapping [INFO] Mapped "{[/createuser],methods=[POST]}" onto public java.lang.String com.logic.controller.AppController.createUser(java.lang.String,java.lang.String,java.lang.String) throws com.fasterxml.jackson.core.JsonProcessingException
+2017-01-04 10:14:42 RequestMappingHandlerAdapter [INFO] Looking for @ControllerAdvice: WebApplicationContext for namespace 'springmvc3-servlet': startup date [Wed Jan 04 10:14:38 MSK 2017]; root of context hierarchy
+2017-01-04 10:14:42 RequestMappingHandlerAdapter [INFO] Looking for @ControllerAdvice: WebApplicationContext for namespace 'springmvc3-servlet': startup date [Wed Jan 04 10:14:38 MSK 2017]; root of context hierarchy
+2017-01-04 10:14:42 SimpleUrlHandlerMapping [INFO] Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2017-01-04 10:14:42 SimpleUrlHandlerMapping [INFO] Mapped URL path [/resources/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2017-01-04 10:14:42 DispatcherServlet [INFO] FrameworkServlet 'springmvc3': initialization completed in 4412 ms
