@@ -6,6 +6,7 @@ import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.junit.runners.BlockJUnit4ClassRunner;
 
+import com.corejava.annotations.Car;
 import com.corejava.exceptions.MyException;
 
 @RunWith(value = BlockJUnit4ClassRunner.class)
