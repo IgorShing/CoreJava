@@ -1,7 +1,8 @@
 package com.logic.controller;
 
 /**
- * Will be replaced by an endpoint. Need the pattern strategy.
+ * Will be replaced by an endpoint. 
+ * Need the pattern strategy.
  *
  */
 public class DemoRunner {
